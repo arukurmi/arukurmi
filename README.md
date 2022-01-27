@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryansh Kurmi</h1>
-<h3 align="center">A software developer hailing from India. Currently pursuing Electrical engineering from IIT Ropar(Batch of 2022).)</h3>
+<h3 align="center">A software developer hailing from India. Currently pursuing Electrical engineering from IIT Ropar(Batch of 2022)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arukurmi&label=Profile%20views&color=0e75b6&style=flat" alt="arukurmi" /> </p>
 
