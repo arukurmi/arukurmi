@@ -2,7 +2,7 @@
 <p align="center"> <img align="center" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100px" ></p>
 
 <h1 align="center">I'm Aryansh Kurmi</h1>
-<h4 align="center">I am a final year B.Tech. undergrad who is pursuing Electrical engineering from <a href="https://www.iitrpr.ac.in/"> IIT Ropar </a>(2022). I am an enthusiastic software developer who wants to use tech to solve real 🌍 problems. </h4>
+<h4 align="center">I am currently a final year B.Tech. undergrad who is pursuing Electrical engineering from <a href="https://www.iitrpr.ac.in/"> IIT Ropar </a>(2022). I am an enthusiastic software developer who wants to use tech to solve real 🌍 problems. </h4>
 
 
 <h3 align="left">Somethings about me:</h3>
