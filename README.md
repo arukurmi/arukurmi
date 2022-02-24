@@ -7,8 +7,9 @@
 
 <h3 align="left">Somethings about me:</h3>
 
+- 👨‍💻 I am currently interning at **[Business Tech Labs](https://www.businesstechlabs.com/)** as a backend SDE.
 - 👨‍💻 I have interned at **[Fintract Global](https://www.fintract.co.uk/)** as a software development associate.
-- 🌱 I’m currently learning **Django**.
+- 🌱 I’m currently learning **Spring Boot**.
 - 👨‍💻 You can check **[My portfolio website](https://arukurmi.github.io/aryansite/)**.
 - 📄 Here is **[My Resume](https://drive.google.com/file/d/1uYRD9x1TmDJFjyHb06ab66wrhcccOWLv/view?usp=sharing)**. I'm open for freelance projects, internships, or full time roles in software development.
 - ⚡ **I love to play sports or have random conversations over chai☕ during my leisure time!**
