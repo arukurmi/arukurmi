@@ -37,5 +37,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arukurmi&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="arukurmi" /></p>
 <h3 align="left">Help me to stay awake:</h3>
 <p><a href="https://www.buymeacoffee.com/Aryanshkurmi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aryanshkurmi" /></a></p>
-
-
