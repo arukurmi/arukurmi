@@ -5,7 +5,7 @@
 <h4 align="center">A final year B.Tech. undergrad, pursuing Electrical engineering from <a href="https://www.iitrpr.ac.in/"> IIT Ropar </a>(2022). I am an enthusiastic software developer who loves to discuss real world problems and use technology to solve them. </h4>
 
 
-<h3 align="left">Somethings about me:</h3>
+<h3 align="left">Some things about me:</h3>
 
 - 👨‍💻 I am currently interning at **[Business Tech Labs](https://www.businesstechlabs.com/)** as a backend SDE.
 - 👨‍💻 I have interned at **[Fintract Global](https://www.fintract.co.uk/)** as a software development associate.
