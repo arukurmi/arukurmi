@@ -10,7 +10,7 @@
 - 👨‍💻 Before that, I had my intern adventure at **[Business Tech Labs](https://www.businesstechlabs.com/)**, where I was the backend hero.
 - 👨‍💻 I interned at  **[Fintract Global](https://www.fintract.co.uk/)** where I wore the frontend developer cape.
 - 👨‍💻 Swing by my mystical **[My portfolio website](https://arukurmi.github.io/aryansite/)** to see my spells in action.
-- 📄 Here is **[My Resume](https://drive.google.com/file/d/1uYRD9x1TmDJFjyHb06ab66wrhcccOWLv/view?usp=sharing)**.  Up for some freelancing, internships, or full-time coding adventures.
+- 📄 Here is **[My Resume](https://drive.google.com/file/d/1886vZeTRqPPvchbldM-3D5KE_KChNOs1/view?usp=sharing)**.  Up for some freelancing, internships, or full-time coding adventures.
 - ⚡ **When I'm not in front of the screen, you might find me in the sports arena or just shooting the breeze over coffee. Life's all about balance, right?**
 - 📫 Want to ping me? Shoot an email to **arukurmi22@gmail.com**. Let's connect and chat!
 
