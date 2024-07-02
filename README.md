@@ -13,7 +13,8 @@
 - 📄 You can find my resume **[here](https://drive.google.com/file/d/1886vZeTRqPPvchbldM-3D5KE_KChNOs1/view?usp=sharing)**.  I am up for some freelancing or part-time coding adventures!
 - ⚡ When I'm not in front of the screen, you might find me in the sports arena or just shooting the breeze over tea. Life's all about balance, right?
 
-Tech I love to work with(but not restriced by!): 
+<h3 align="left">Tech I love to work with (but not restriced by!): </h3>
+<p>
                       <img style="margin:5px 5px" src="https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="NodeJs badge"/>
                       <img style="margin:5px 5px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby%20on%20rails&logoColor=white&style=for-the-badge" alt="Ruby on Rails badge"/>
                       <img style="margin:5px 5px" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="Javascript badge"/>
