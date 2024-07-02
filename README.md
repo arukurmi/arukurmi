@@ -1,11 +1,11 @@
 <p align="center"> <img align="center" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100px" ></p>
 
 <h1 align="center">I'm Aryansh Kurmi</h1>
-<h4 align="center">Hey there! 🌟 I'm an Electrical Engineering grad from <a href="https://www.iitrpr.ac.in/"> IIT Ropar </a> (Class of 2022). But guess what? My heart beats for coding and solving real-world puzzles using tech wizardry!
+<h4 align="center">Hey there! 🌟 I'm an Electrical Engineering grad from <a href="https://www.iitrpr.ac.in/"> IIT Ropar </a> (Class of 2022). But guess what? My heart beats for coding and solving real-world puzzles!
 
 <h3 align="left">About me:</h3>
 
-- 👨‍💻 I work full-time as a associate developer in **[Brane Enterprises](https://www.braneenterprises.com/)**.
+- 👨‍💻 I work full-time as an associate developer in **[Brane Enterprises](https://www.braneenterprises.com/)**.
 - 👨‍💻 I have previously worked as a full-time Software Development Engineer at **[CoinDCX](https://coindcx.com/)**.
 - 👨‍💻 I have done internships at  **[Fintract Global](https://www.fintract.co.uk/)** and **[Business Tech Labs](https://www.businesstechlabs.com/)**.
 
