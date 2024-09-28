@@ -5,8 +5,8 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨‍💻 I work full-time as an associate developer in **[Brane Enterprises](https://www.braneenterprises.com/)**.
-- 👨‍💻 I have previously worked as a full-time Software Development Engineer at **[CoinDCX](https://coindcx.com/)**.
+- 👨‍💻 Currently working in **[GoKwik](https://www.gokwik.co/)** as a full-time Software Development Engineer.
+- 👨‍💻 I have previously worked as a full-time Software Development Engineer at **[CoinDCX](https://coindcx.com/)** and as an associate developer in **[Brane Enterprises](https://www.braneenterprises.com/)**.
 - 👨‍💻 I have done internships at  **[Fintract Global](https://www.fintract.co.uk/)** and **[Business Tech Labs](https://www.businesstechlabs.com/)**.
 
 - 👨‍💻 Swing by **[My github repositories](https://github.com/arukurmi?tab=repositories)** and please feel free to add/comment any features or ideas. Most of my projects are public.
