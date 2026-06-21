@@ -34,3 +34,8 @@
 <!-- <h3 align="left">Help me to stay awake:</h3>
 <p><a href="https://www.buymeacoffee.com/Aryanshkurmi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aryanshkurmi" /></a></p>
  -->
+
+
+
+[![X Follow](https://www.shieldcn.dev/x/follow/AryanshKurmi2.svg?variant=branded&size=sm&theme=blue)](https://x.com/AryanshKurmi2) 
+[![Website](https://www.shieldcn.dev/badge/Website-arukurmi.github.io%2Faryansite-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&theme=blue)](https://arukurmi.vercel.app/)
