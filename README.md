@@ -23,8 +23,6 @@
   <img style="margin:5px 5px" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express badge"/>
   <img style="margin:5px 5px" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript badge"/>
   <img style="margin:5px 5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge"/>
-  <img style="margin:5px 5px" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python badge"/>
-  <img style="margin:5px 5px" src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go badge"/>
   <img style="margin:5px 5px" src="https://img.shields.io/badge/-C%2FC++-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C/C++ badge"/>
 </p>
 
