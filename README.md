@@ -3,15 +3,14 @@
 <h1 align="center">Hey, I'm Aryansh Kurmi 👋</h1>
 <h4 align="center">Software Engineer building <b>AI-native systems</b> — agents, LLM workflows, and MCP tooling — shipped to production. Electrical Engineering grad from <a href="https://www.iitrpr.ac.in/">IIT Ropar</a> (Class of 2022), but my heart beats for code and solving real-world puzzles.</h4>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About me</h3>
 
-- 👨‍💻 Currently working in **[GoKwik](https://www.gokwik.co/)** as a full-time Software Development Engineer.
-- 👨‍💻 I have previously worked as a full-time Software Development Engineer at **[CoinDCX](https://coindcx.com/)** and as an associate developer in **[Brane Enterprises](https://www.braneenterprises.com/)**.
-- 👨‍💻 I have done internships at  **[Fintract Global](https://www.fintract.co.uk/)** and **[Business Tech Labs](https://www.businesstechlabs.com/)**.
-
-- 👨‍💻 Swing by **[My github repositories](https://github.com/arukurmi?tab=repositories)** and please feel free to add/comment any features or ideas. Most of my projects are public.
-- 📄 You can find my resume **[here](https://drive.google.com/file/d/1886vZeTRqPPvchbldM-3D5KE_KChNOs1/view?usp=sharing)**.  I am up for some freelancing or part-time coding adventures!
-- ⚡ When I'm not in front of the screen, you might find me in the sports arena or just shooting the breeze over tea. Life's all about balance, right?
+- 🤖 I'm all-in on **AI-native engineering** — shipping agents, LLM workflows, and MCP tooling into production, and using AI to build every single day.
+- 👨‍💻 Currently a full-time **Software Development Engineer at [GoKwik](https://www.gokwik.co/)**.
+- 🧭 Previously an SDE at **[CoinDCX](https://coindcx.com/)** and an associate developer at **[Brane Enterprises](https://www.braneenterprises.com/)**, with internships at **[Fintract Global](https://www.fintract.co.uk/)** and **[Business Tech Labs](https://www.businesstechlabs.com/)**.
+- 🚀 See what I'm building on my **[portfolio](https://arukurmi.vercel.app/)** and my **[GitHub repositories](https://github.com/arukurmi?tab=repositories)** — most are public, so feel free to open an issue or drop ideas.
+- 📄 My resume lives **[here](https://drive.google.com/file/d/1886vZeTRqPPvchbldM-3D5KE_KChNOs1/view?usp=sharing)** — I'm open to freelancing and part-time coding adventures.
+- ⚡ Off-screen, you'll find me in the sports arena or shooting the breeze over chai. Life's all about balance, right?
 
 <h3 align="left">Tech I love to work with (but not restriced by!): </h3>
 <p>
