@@ -32,4 +32,4 @@
 <br>
 
 [![X Follow](https://www.shieldcn.dev/x/follow/AryanshKurmi2.svg?variant=branded&size=sm&theme=blue)](https://x.com/BufferLab6) 
-[![Website](https://www.shieldcn.dev/badge/Website-arukurmi.github.io%2Faryansite-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&theme=blue)](https://arukurmi.vercel.app/)
+[![Website](https://www.shieldcn.dev/badge/Portfolio-arukurmi.vercel.app-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&theme=blue)](https://arukurmi.vercel.app/)
