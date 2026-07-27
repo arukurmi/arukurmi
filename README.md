@@ -26,15 +26,6 @@
   <img style="margin:5px 5px" src="https://img.shields.io/badge/-C%2FC++-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C/C++ badge"/>
 </p>
 
-<p><b>AI &amp; Agents</b><br>
-  <img style="margin:5px 5px" src="https://img.shields.io/badge/-AI%20Agents-111111?logo=probot&logoColor=white&style=for-the-badge" alt="AI Agents badge"/>
-  <img style="margin:5px 5px" src="https://img.shields.io/badge/-Sub--agents-6E56CF?logo=probot&logoColor=white&style=for-the-badge" alt="Sub-agents badge"/>
-  <img style="margin:5px 5px" src="https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white&style=for-the-badge" alt="Claude badge"/>
-  <img style="margin:5px 5px" src="https://img.shields.io/badge/-LLM%20Workflows-412991?logo=openai&logoColor=white&style=for-the-badge" alt="LLM Workflows badge"/>
-  <img style="margin:5px 5px" src="https://img.shields.io/badge/-MCP-D97757?logo=anthropic&logoColor=white&style=for-the-badge" alt="MCP badge"/>
-  <img style="margin:5px 5px" src="https://img.shields.io/badge/-RAG-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" alt="RAG badge"/>
-</p>
-
 <p><b>Data &amp; Messaging</b><br>
   <img style="margin:5px 5px" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL badge"/>
   <img style="margin:5px 5px" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB badge"/>
