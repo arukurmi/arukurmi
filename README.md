@@ -1,7 +1,7 @@
 <p align="center"> <img align="center" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100px" ></p>
 
-<h1 align="center">I'm Aryansh Kurmi</h1>
-<h4 align="center">Hey there! 🌟 I'm an Electrical Engineering grad from <a href="https://www.iitrpr.ac.in/"> IIT Ropar </a> (Class of 2022). But guess what? My heart beats for coding and solving real-world puzzles!
+<h1 align="center">Hey, I'm Aryansh Kurmi 👋</h1>
+<h4 align="center">Software Engineer building <b>AI-native systems</b> — agents, LLM workflows, and MCP tooling — shipped to production. Electrical Engineering grad from <a href="https://www.iitrpr.ac.in/">IIT Ropar</a> (Class of 2022), but my heart beats for code and solving real-world puzzles.</h4>
 
 <h3 align="left">About me:</h3>
 
