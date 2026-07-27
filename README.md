@@ -5,7 +5,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🤖 I'm all-in on **AI-native engineering** — shipping agents, LLM workflows, and MCP tooling into production, and using AI to build every single day.
+- 🤖 I build and ship **AI-native systems** for a living — production agents, LLM workflows, and MCP tooling — and I code with AI every single day.
 - 👨‍💻 Currently a full-time **Software Development Engineer at [GoKwik](https://www.gokwik.co/)**.
 - 🧭 Previously an SDE at **[CoinDCX](https://coindcx.com/)** and an associate developer at **[Brane Enterprises](https://www.braneenterprises.com/)**, with internships at **[Fintract Global](https://www.fintract.co.uk/)** and **[Business Tech Labs](https://www.businesstechlabs.com/)**.
 - 🚀 See what I'm building on my **[portfolio](https://arukurmi.vercel.app/)** and my **[GitHub repositories](https://github.com/arukurmi?tab=repositories)** — most are public, so feel free to open an issue or drop ideas.
