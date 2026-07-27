@@ -31,5 +31,6 @@
 </p>
 <br>
 
-[![X Follow](https://www.shieldcn.dev/x/follow/AryanshKurmi2.svg?variant=branded&size=sm&theme=blue)](https://x.com/BufferLab6) 
+[![X Follow](https://www.shieldcn.dev/x/follow/BufferLab6.svg?variant=branded&size=sm&theme=blue)](https://x.com/BufferLab6) 
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-Aryansh%20Kurmi-0A66C2.svg?logo=ri%3ALinkedinFill&variant=branded&size=sm&theme=blue)](https://www.linkedin.com/in/aryanshkurmi) 
 [![Website](https://www.shieldcn.dev/badge/Portfolio-arukurmi.vercel.app-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&theme=blue)](https://arukurmi.vercel.app/)
