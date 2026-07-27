@@ -67,10 +67,3 @@
   &nbsp;
   <a href="https://arukurmi.vercel.app/"><img src="https://www.shieldcn.dev/badge/Portfolio-arukurmi.vercel.app-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&theme=blue" alt="Portfolio"/></a>
 </p>
-
-<h3 align="left">GitHub stats</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arukurmi&show_icons=true&hide_border=true&count_private=true&title_color=D97757&icon_color=D97757&theme=transparent" alt="Aryansh's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arukurmi&layout=compact&hide_border=true&title_color=D97757&theme=transparent" alt="Top languages"/>
-</p>
