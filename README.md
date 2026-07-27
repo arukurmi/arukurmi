@@ -45,3 +45,10 @@
 [![X Follow](https://www.shieldcn.dev/x/follow/BufferLab6.svg?variant=branded&size=sm&theme=blue)](https://x.com/BufferLab6) 
 [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-Aryansh%20Kurmi-0A66C2.svg?logo=ri%3ALinkedinFill&variant=branded&size=sm&theme=blue)](https://www.linkedin.com/in/aryanshkurmi) 
 [![Website](https://www.shieldcn.dev/badge/Portfolio-arukurmi.vercel.app-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&theme=blue)](https://arukurmi.vercel.app/)
+
+<h3 align="left">GitHub stats</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arukurmi&show_icons=true&hide_border=true&count_private=true&title_color=D97757&icon_color=D97757&theme=transparent" alt="Aryansh's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arukurmi&layout=compact&hide_border=true&title_color=D97757&theme=transparent" alt="Top languages"/>
+</p>
