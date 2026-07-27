@@ -60,9 +60,13 @@
 </p>
 <br>
 
-[![X Follow](https://www.shieldcn.dev/x/follow/BufferLab6.svg?variant=branded&size=sm&theme=blue)](https://x.com/BufferLab6) 
-[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-Aryansh%20Kurmi-0A66C2.svg?logo=ri%3ALinkedinFill&variant=branded&size=sm&theme=blue)](https://www.linkedin.com/in/aryanshkurmi) 
-[![Website](https://www.shieldcn.dev/badge/Portfolio-arukurmi.vercel.app-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&theme=blue)](https://arukurmi.vercel.app/)
+<p align="center">
+  <a href="https://x.com/BufferLab6"><img src="https://www.shieldcn.dev/x/follow/BufferLab6.svg?variant=branded&size=sm&theme=blue" alt="X follow"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aryanshkurmi"><img src="https://www.shieldcn.dev/badge/LinkedIn-Aryansh%20Kurmi-0A66C2.svg?logo=ri%3ALinkedinFill&variant=branded&size=sm&theme=blue" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://arukurmi.vercel.app/"><img src="https://www.shieldcn.dev/badge/Portfolio-arukurmi.vercel.app-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&theme=blue" alt="Portfolio"/></a>
+</p>
 
 <h3 align="left">GitHub stats</h3>
 
